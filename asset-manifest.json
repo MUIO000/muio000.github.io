@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kiwi1018/static/css/main.2db5418a.css",
+    "main.js": "/kiwi1018/static/js/main.f4ac87e0.js",
+    "static/js/453.be19a194.chunk.js": "/kiwi1018/static/js/453.be19a194.chunk.js",
+    "index.html": "/kiwi1018/index.html",
+    "main.2db5418a.css.map": "/kiwi1018/static/css/main.2db5418a.css.map",
+    "main.f4ac87e0.js.map": "/kiwi1018/static/js/main.f4ac87e0.js.map",
+    "453.be19a194.chunk.js.map": "/kiwi1018/static/js/453.be19a194.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db5418a.css",
+    "static/js/main.f4ac87e0.js"
+  ]
+}
